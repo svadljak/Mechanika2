@@ -7,7 +7,7 @@ Tato složka obsahuje příklady ze cvičeních z předmětu Mechanika 2. Každ�
 
 ## Cvičení jednotlivých témat
 
-- **Kinematika bodu** *Cvičení 1 a 2*
+- **Kinematika bodu *Cvičení 1 a 2* **
 - Kinematika tělesa *Cvičení 3, 4 a 5*
     - Kinematika tělesa obecně: *cvičení 3*
     - Kinematika posuvného a rotačního pohybu tělesa: *cvičení 4*
