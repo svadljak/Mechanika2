@@ -1,10 +1,4 @@
-
----
-
-**README.md (v adresáři `cvičení`)**
-
-```markdown
-# Cvičení – Praktická cvičení pro Mechaniku 2
+# Cvičení – Příklady ze cvičeních pro Mechaniku 2
 
 Tato složka obsahuje příklady ze cvičeních z předmětu Mechanika 2. Každé cvičení je organizováno do vlastního podadresáře podle tématu, který obsahuje řešení ve dvou variantách:
 
