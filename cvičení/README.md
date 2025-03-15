@@ -7,19 +7,19 @@ Tato složka obsahuje příklady ze cvičeních z předmětu Mechanika 2. Každ�
 
 ## Cvičení jednotlivých témat
 
-- **Kinematika bodu *Cvičení 1 a 2* **
-- Kinematika tělesa *Cvičení 3, 4 a 5*
+- **Kinematika bodu**
+- **Kinematika tělesa**
     - Kinematika tělesa obecně: *cvičení 3*
     - Kinematika posuvného a rotačního pohybu tělesa: *cvičení 4*
     - Kinematika rotačního a obecného rovinného pohybu tělesa: *cvičení 5*
-- Vektorová metoda *Cvičení 6 a 7*
+- **Vektorová metoda**
     - Trigonometrická a vektorová metoda: *cvičení 6*
     - Vektorová metoda, grafické metody řešení kinematiky rovinných soustav: *cvičení 7*
-- Maticová metoda *Cvičení 8 a 9*
-- Kinematika současných pohybů *Cvičení 10*
-- Princip virtuálních prací a výkonů ve statice, Kinematická metoda ve statice *Cvičení 11*
-- Mechanismy s konstantním převodem *Cvičení 12*
-- Syntéza mechanismů, vačkové mechanismy *Cvičení 13*
+- **Maticová metoda:** *cvičení 8 a 9*
+- **Kinematika současných pohybů:** *cvičení 10*
+- **Princip virtuálních prací a výkonů ve statice, Kinematická metoda ve statice:** *cvičení 11*
+- **Mechanismy s konstantním převodem:** *cvičení 12*
+- **Syntéza mechanismů, vačkové mechanismy:** *cvičení 13*
 
 
 ## Další informace
