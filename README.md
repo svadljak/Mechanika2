@@ -11,7 +11,7 @@ Tento repozitář obsahuje vzdělávací materiály pro předmět **Mechanika 2*
 
 ## Webové stránky
 
-Pro ruční řešení příkladů a další doplňující materiály navštivte  [webové stránky](https://users.fs.cvut.cz/jakub.svadlena/Me2_cviceni/).
+Pro ruční řešení příkladů a další doplňující materiály navštivte  [webové stránky](https://users.fs.cvut.cz/jakub.svadlena/).
 
 
 Pokud máte dotaz či najdete někde chybu, kontaktujte mě prosím přes email: [jakub.svadlena@fs.cvut.cz](mailto:jakub.svadlena@fs.cvut.cz)
